@@ -1,0 +1,6 @@
+{
+  "name": "Z-H202 CORE Architecture Explorer",
+  "description": "A high-fidelity interactive system architecture explorer, flow tracing sandbox, and security validation console for the Z-H202.ia sovereign AI system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
